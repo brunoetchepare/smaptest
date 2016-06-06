@@ -1,1 +1,1 @@
-# smaptest
+SLACK_WEBHOOK_URL: "https://hooks.slack.com/services/T12345678/B12345678/[token]"
